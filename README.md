@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gushono&label=Profile%20views&color=0e75b6&style=plastic" alt="gushono" /> </p>
 
-- 🔭 I’m currently working on **Pagar.me - Stone**
+- 🔭 I’m currently working on **Mercado Livre**
 
-- 🌱 I’m currently learning **React, Vue**
+- 🌱 I’m currently learning **React and Golang**
 
 - 👨‍💻 All of my projects are available at **Github! See my repositories**
 
