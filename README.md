@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mercado Livre**
 
-- 🌱 I’m currently learning **React and Golang**
+- 🌱 I’m currently working with **Golang and Python**
 
 - 👨‍💻 All of my projects are available at **Github! See my repositories**
 
